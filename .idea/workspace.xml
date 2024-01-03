@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added first sample on lessons7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop5.java" afterDir="false" />
+    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lessons7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Arrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/HashMapOzelSinif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/HashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/MultiDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/ArabaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/StaticOzellikler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +33,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "serkancura"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;serkancura&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -55,16 +61,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArabaTest.executor": "Run",
+    "Application.Arrays1.executor": "Run",
+    "Application.Collections.executor": "Run",
+    "Application.HashMapOzelSinif.executor": "Run",
+    "Application.HashMaps.executor": "Run",
+    "Application.HesapMakinesi.executor": "Run",
     "Application.Loop2.executor": "Run",
     "Application.Loop3.executor": "Run",
     "Application.Loop4.executor": "Run",
     "Application.Loop5.executor": "Debug",
     "Application.Loops.executor": "Debug",
+    "Application.MultiDimension.executor": "Run",
+    "Application.StaticOzellikler.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/main/java/org/rd/lessons/Main.java"
+    "onboarding.tips.debug.path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/main/java/org/rd/lessons/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,13 +87,13 @@
       <recent name="org.rd.lessons.lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loop5">
-    <configuration name="Loop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson7.Loop2" />
+  <component name="RunManager" selected="Application.HesapMakinesi">
+    <configuration name="ArabaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lessons9.NesneOzellikleri.ArabaTest" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson7.*" />
+          <option name="PATTERN" value="org.rd.lessons.lessons9.NesneOzellikleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson7.Loop3" />
+    <configuration name="HashMapOzelSinif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson8.HashMapOzelSinif" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson7.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson7.Loop4" />
+    <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson8.HashMaps" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson7.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson7.Loop5" />
+    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lessons9.NesneOzellikleri.HesapMakinesi" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson7.*" />
+          <option name="PATTERN" value="org.rd.lessons.lessons9.NesneOzellikleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson7.Loops" />
+    <configuration name="StaticOzellikler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lessons9.NesneOzellikleri.StaticOzellikler" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson7.*" />
+          <option name="PATTERN" value="org.rd.lessons.lessons9.NesneOzellikleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loop5" />
-        <item itemvalue="Application.Loop4" />
-        <item itemvalue="Application.Loop3" />
-        <item itemvalue="Application.Loop2" />
-        <item itemvalue="Application.Loops" />
+        <item itemvalue="Application.HesapMakinesi" />
+        <item itemvalue="Application.ArabaTest" />
+        <item itemvalue="Application.StaticOzellikler" />
+        <item itemvalue="Application.HashMapOzelSinif" />
+        <item itemvalue="Application.HashMaps" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703608596722</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added all sample on lessons7">
+      <option name="closed" value="true" />
+      <created>1703776500337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703776500337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +229,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="added first sample on lessons7" />
-    <option name="LAST_COMMIT_MESSAGE" value="added first sample on lessons7" />
+    <MESSAGE value="added all sample on lessons7" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lessons7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
