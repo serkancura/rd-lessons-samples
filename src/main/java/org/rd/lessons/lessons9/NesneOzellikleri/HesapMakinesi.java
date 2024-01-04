@@ -35,6 +35,4 @@ public class HesapMakinesi {
         System.out.println("Toplama sonucu: " + hesapMakinesi.topla(5.3, 2.1));
         System.out.println("Toplama sonucu: " + hesapMakinesi.topla(5, 6, 7));
     }
-
-    -
 }

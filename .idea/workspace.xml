@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lessons7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Arrays1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/HashMapOzelSinif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/HashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/MultiDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/ArabaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/StaticOzellikler.java" afterDir="false" />
+    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lessons7, lesson 8 and lessons9">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/EnumDonusturme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/EnumOrnek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/EnumSinifYapisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/HaftaGunleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/HaftaKontrolu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/NesneAktarmaOrnek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/StaticMetotOrnek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/HesapMakinesi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -64,6 +64,10 @@
     "Application.ArabaTest.executor": "Run",
     "Application.Arrays1.executor": "Run",
     "Application.Collections.executor": "Run",
+    "Application.EnumDonusturme.executor": "Run",
+    "Application.EnumOrnek.executor": "Debug",
+    "Application.EnumSinifYapisi.executor": "Run",
+    "Application.HaftaKontrolu.executor": "Debug",
     "Application.HashMapOzelSinif.executor": "Run",
     "Application.HashMaps.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
@@ -73,13 +77,16 @@
     "Application.Loop5.executor": "Debug",
     "Application.Loops.executor": "Debug",
     "Application.MultiDimension.executor": "Run",
+    "Application.NesneAktarmaOrnek.executor": "Run",
+    "Application.StaticMetotOrnek.executor": "Run",
     "Application.StaticOzellikler.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/main/java/org/rd/lessons/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -87,13 +94,13 @@
       <recent name="org.rd.lessons.lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HesapMakinesi">
-    <configuration name="ArabaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lessons9.NesneOzellikleri.ArabaTest" />
+  <component name="RunManager" selected="Application.EnumDonusturme">
+    <configuration name="EnumDonusturme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson10.EnumDonusturme" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lessons9.NesneOzellikleri.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapOzelSinif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson8.HashMapOzelSinif" />
+    <configuration name="EnumOrnek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson10.EnumOrnek" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson8.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson8.HashMaps" />
+    <configuration name="EnumSinifYapisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson10.EnumSinifYapisi" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson8.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lessons9.NesneOzellikleri.HesapMakinesi" />
+    <configuration name="HaftaKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson10.HaftaKontrolu" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lessons9.NesneOzellikleri.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticOzellikler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lessons9.NesneOzellikleri.StaticOzellikler" />
+    <configuration name="NesneAktarmaOrnek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lessons9.NesneOzellikleri.NesneAktarmaOrnek" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HesapMakinesi" />
-        <item itemvalue="Application.ArabaTest" />
-        <item itemvalue="Application.StaticOzellikler" />
-        <item itemvalue="Application.HashMapOzelSinif" />
-        <item itemvalue="Application.HashMaps" />
+        <item itemvalue="Application.EnumDonusturme" />
+        <item itemvalue="Application.EnumSinifYapisi" />
+        <item itemvalue="Application.HaftaKontrolu" />
+        <item itemvalue="Application.EnumOrnek" />
+        <item itemvalue="Application.NesneAktarmaOrnek" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703776500337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added all sample on lessons7, lesson 8 and lessons9">
+      <option name="closed" value="true" />
+      <created>1704310372638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704310372638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +245,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="added first sample on lessons7" />
     <MESSAGE value="added all sample on lessons7" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lessons7" />
+    <MESSAGE value="added all sample on lessons7, lesson 8 and lessons9" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lessons7, lesson 8 and lessons9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -249,6 +265,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop5.java</url>
           <line>11</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/HaftaKontrolu.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/HaftaKontrolu.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/HaftaKontrolu.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
