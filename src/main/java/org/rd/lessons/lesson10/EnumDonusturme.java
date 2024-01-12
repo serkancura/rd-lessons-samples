@@ -12,7 +12,5 @@ public class EnumDonusturme {
         String gun = "SALI";
         HaftaGunleri guneDonustur = HaftaGunleri.valueOf(gun);
         System.out.println("Haftanın günü: "+ guneDonustur);
-
     }
-
 }
