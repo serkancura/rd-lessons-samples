@@ -4,20 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Crocodile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Swimmable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Walkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/DebugExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/FileReadingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/Just.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/dosya.txt" afterDir="false" />
+    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/FileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/WriteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/FileWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/yazilanTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/aa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/dosya.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/yazilanDosyas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samples/aa.txt" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -75,7 +81,9 @@
     "Application.EnumDonusturme.executor": "Run",
     "Application.EnumOrnek.executor": "Debug",
     "Application.EnumSinifYapisi.executor": "Run",
+    "Application.FileRead.executor": "Run",
     "Application.FileReadingExample.executor": "Run",
+    "Application.FileWrite.executor": "Run",
     "Application.HaftaKontrolu.executor": "Debug",
     "Application.HashMapOzelSinif.executor": "Run",
     "Application.HashMaps.executor": "Run",
@@ -86,15 +94,18 @@
     "Application.Loop4.executor": "Run",
     "Application.Loop5.executor": "Debug",
     "Application.Loops.executor": "Debug",
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.MultiDimension.executor": "Run",
     "Application.NesneAktarmaOrnek.executor": "Run",
     "Application.OgrenciTest.executor": "Run",
+    "Application.ReadFile.executor": "Run",
     "Application.SekilTest.executor": "Run",
     "Application.StaticMetotOrnek.executor": "Run",
     "Application.StaticOzellikler.executor": "Run",
     "Application.VeriSaklamaTest.executor": "Run",
+    "Application.WriteFile.executor": "Run",
     "Application.org.rd.lessons.lesson11.Inheritances.SekilTest.executor": "Run",
+    "Application.org.rd.lessons.lesson13.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -112,18 +123,21 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Inheritances" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.rd.lessons.lesson11.Abstraction" />
       <recent name="org.rd.lessons.lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Just">
-    <configuration name="DebugExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.DebugExample" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.FileRead" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,38 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EOFExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.EOFExceptionDemo" />
+    <configuration name="FileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.FileWrite" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileReadingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.FileReadingExample" />
-      <module name="rd-lessons-samples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Just" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.Just" />
-      <module name="rd-lessons-samples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +159,37 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson11.Interfaces.multiInheritance.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.readWriteSample.Main" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson11.Interfaces.multiInheritance.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson13.readWriteSample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.samplesWithFileStream.ReadFile" />
+      <module name="rd-lessons-samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rd.lessons.lesson13.samplesWithFileStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.samplesWithFileStream.WriteFile" />
+      <module name="rd-lessons-samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rd.lessons.lesson13.samplesWithFileStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Just" />
-        <item itemvalue="Application.EOFExceptionDemo" />
-        <item itemvalue="Application.FileReadingExample" />
-        <item itemvalue="Application.DebugExample" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FileWrite" />
+        <item itemvalue="Application.FileRead" />
+        <item itemvalue="Application.WriteFile" />
+        <item itemvalue="Application.ReadFile" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705072845122</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added all sample on lesson12">
+      <option name="closed" value="true" />
+      <created>1705593950302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705593950302</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +310,8 @@
     <MESSAGE value="added all sample on lessons7, lesson 8 and lessons9" />
     <MESSAGE value="added all sample on lesson10" />
     <MESSAGE value="added all sample on lesson11" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson11" />
+    <MESSAGE value="added all sample on lesson12" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -332,6 +355,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/FileReadingExample.java</url>
           <line>14</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/WriteToFile.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/WriteToFile.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/ReadFile.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
