@@ -4,24 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson10">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Abstraction/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Abstraction/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Abstraction/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Abstraction/SekilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Inheritances/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Inheritances/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Inheritances/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Inheritances/SekilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/MySQLVeritabani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/Veritabani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/ThisIsThis/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/ThisIsThis/OgrenciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/ThisIsThis/Sayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/VeriSaklamaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/VeriSaklayici.java" afterDir="false" />
+    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson11">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Swimmable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Interfaces/multiInheritance/Walkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/DebugExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/FileReadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/Just.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/dosya.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/EnumDonusturme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/EnumDonusturme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,28 +57,36 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2a5SDt3xL4GhfrZChX7uKPURgQ0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArabaTest.executor": "Run",
     "Application.Arrays1.executor": "Run",
     "Application.Collections.executor": "Run",
+    "Application.DebugExample.executor": "Debug",
+    "Application.EOFExceptionDemo.executor": "Debug",
     "Application.EnumDonusturme.executor": "Run",
     "Application.EnumOrnek.executor": "Debug",
     "Application.EnumSinifYapisi.executor": "Run",
+    "Application.FileReadingExample.executor": "Run",
     "Application.HaftaKontrolu.executor": "Debug",
     "Application.HashMapOzelSinif.executor": "Run",
     "Application.HashMaps.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
+    "Application.Just.executor": "Run",
     "Application.Loop2.executor": "Run",
     "Application.Loop3.executor": "Run",
     "Application.Loop4.executor": "Run",
     "Application.Loop5.executor": "Debug",
     "Application.Loops.executor": "Debug",
+    "Application.Main.executor": "Run",
     "Application.MultiDimension.executor": "Run",
     "Application.NesneAktarmaOrnek.executor": "Run",
     "Application.OgrenciTest.executor": "Run",
@@ -90,14 +94,18 @@
     "Application.StaticMetotOrnek.executor": "Run",
     "Application.StaticOzellikler.executor": "Run",
     "Application.VeriSaklamaTest.executor": "Run",
+    "Application.org.rd.lessons.lesson11.Inheritances.SekilTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/main/java/org/rd/lessons/lesson11/Inheritances",
+    "last_opened_file_path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples",
     "onboarding.tips.debug.path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/main/java/org/rd/lessons/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -109,13 +117,13 @@
       <recent name="org.rd.lessons.lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.rd.lessons.lesson11.Inheritances.SekilTest">
-    <configuration name="EnumDonusturme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson10.EnumDonusturme" />
+  <component name="RunManager" selected="Application.Just">
+    <configuration name="DebugExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.DebugExample" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson10.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OgrenciTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson11.ThisIsThis.OgrenciTest" />
+    <configuration name="EOFExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.EOFExceptionDemo" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson11.ThisIsThis.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SekilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson11.Abstraction.SekilTest" />
+    <configuration name="FileReadingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.FileReadingExample" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson11.Abstraction.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VeriSaklamaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson11.VeriSaklamaTest" />
+    <configuration name="Just" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson12.Just" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson11.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.rd.lessons.lesson11.Inheritances.SekilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson11.Inheritances.SekilTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson11.Interfaces.multiInheritance.Main" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson11.Inheritances.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson11.Interfaces.multiInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.rd.lessons.lesson11.Inheritances.SekilTest" />
-        <item itemvalue="Application.SekilTest" />
-        <item itemvalue="Application.OgrenciTest" />
-        <item itemvalue="Application.VeriSaklamaTest" />
-        <item itemvalue="Application.EnumDonusturme" />
+        <item itemvalue="Application.Just" />
+        <item itemvalue="Application.EOFExceptionDemo" />
+        <item itemvalue="Application.FileReadingExample" />
+        <item itemvalue="Application.DebugExample" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704392919669</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added all sample on lesson11">
+      <option name="closed" value="true" />
+      <created>1705072845122</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705072845122</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,12 +281,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="added first sample on lessons7" />
     <MESSAGE value="added all sample on lessons7" />
     <MESSAGE value="added all sample on lessons7, lesson 8 and lessons9" />
     <MESSAGE value="added all sample on lesson10" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson10" />
+    <MESSAGE value="added all sample on lesson11" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -304,6 +322,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson10/HaftaKontrolu.java</url>
           <line>28</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/FileReadingExample.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson12/FileReadingExample.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
