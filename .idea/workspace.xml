@@ -4,23 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/FileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/FileRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/FileWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/sampleBufferedFileOperation/yazilanTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/aa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/dosya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/samplesWithFileStream/yazilanDosyas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson13">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/FunctionalInterfaces/ConsumerSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/FunctionalInterfaces/FunctionSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/FunctionalInterfaces/FunctionalInterfaceSample/InterfaceOrnek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/FunctionalInterfaces/FunctionalInterfaceSample/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/FunctionalInterfaces/PredicateSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/FunctionalInterfaces/SupplierSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotations/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotations/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotations/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotations/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotations/RdTestAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotationsWithRetention/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotationsWithRetention/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/annotationsWithRetention/RdTestAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/genericType/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/genericType/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/streams/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson14/streams/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -59,6 +65,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -67,7 +76,9 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -75,6 +86,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArabaTest.executor": "Run",
     "Application.Arrays1.executor": "Run",
+    "Application.BuyuklukKontrolu.executor": "Run",
     "Application.Collections.executor": "Run",
     "Application.DebugExample.executor": "Debug",
     "Application.EOFExceptionDemo.executor": "Debug",
@@ -88,13 +100,16 @@
     "Application.HashMapOzelSinif.executor": "Run",
     "Application.HashMaps.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
+    "Application.InterfaceTest.executor": "Run",
     "Application.Just.executor": "Run",
+    "Application.Kare.executor": "Run",
+    "Application.Lambda.executor": "Run",
     "Application.Loop2.executor": "Run",
     "Application.Loop3.executor": "Run",
     "Application.Loop4.executor": "Run",
     "Application.Loop5.executor": "Debug",
     "Application.Loops.executor": "Debug",
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
     "Application.MultiDimension.executor": "Run",
     "Application.NesneAktarmaOrnek.executor": "Run",
     "Application.OgrenciTest.executor": "Run",
@@ -106,6 +121,14 @@
     "Application.WriteFile.executor": "Run",
     "Application.org.rd.lessons.lesson11.Inheritances.SekilTest.executor": "Run",
     "Application.org.rd.lessons.lesson13.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.FunctionalInterfaces.ConsumerSample.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.FunctionalInterfaces.FunctionSample.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.FunctionalInterfaces.PredicateSample.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.FunctionalInterfaces.SupplierSample.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.annotations.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.annotationsWithRetention.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.genericType.Main.executor": "Run",
+    "Application.org.rd.lessons.lesson14.streams.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -114,9 +137,9 @@
     "last_opened_file_path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples",
     "onboarding.tips.debug.path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/main/java/org/rd/lessons/Main.java",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -126,31 +149,22 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.rd" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.rd.lessons.lesson14.annotationsWithRetention" />
       <recent name="org.rd.lessons.lesson11.Abstraction" />
       <recent name="org.rd.lessons.lesson7" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="FileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.FileRead" />
+    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson14.FunctionalInterfaces.FunctionalInterfaceSample.InterfaceTest" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.FileWrite" />
-      <module name="rd-lessons-samples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson13.sampleBufferedFileOperation.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson14.FunctionalInterfaces.FunctionalInterfaceSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +173,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.readWriteSample.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson14.FunctionalInterfaces.SupplierSample.Main" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson13.readWriteSample.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson14.FunctionalInterfaces.SupplierSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.samplesWithFileStream.ReadFile" />
+    <configuration name="org.rd.lessons.lesson14.FunctionalInterfaces.FunctionSample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson14.FunctionalInterfaces.FunctionSample.Main" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson13.samplesWithFileStream.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson14.FunctionalInterfaces.FunctionSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +198,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson13.samplesWithFileStream.WriteFile" />
+    <configuration name="org.rd.lessons.lesson14.FunctionalInterfaces.PredicateSample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson14.FunctionalInterfaces.PredicateSample.Main" />
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson13.samplesWithFileStream.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson14.FunctionalInterfaces.PredicateSample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.rd.lessons.lesson14.streams.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson14.streams.Main" />
+      <module name="rd-lessons-samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rd.lessons.lesson14.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,10 +227,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FileWrite" />
-        <item itemvalue="Application.FileRead" />
-        <item itemvalue="Application.WriteFile" />
-        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.org.rd.lessons.lesson14.streams.Main" />
+        <item itemvalue="Application.InterfaceTest" />
+        <item itemvalue="Application.org.rd.lessons.lesson14.FunctionalInterfaces.FunctionSample.Main" />
+        <item itemvalue="Application.org.rd.lessons.lesson14.FunctionalInterfaces.PredicateSample.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +239,7 @@
       <set>
         <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-af57353a" />
         <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
       </set>
     </attachedChunks>
   </component>
@@ -288,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705593950302</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added all sample on lesson13">
+      <option name="closed" value="true" />
+      <created>1705602341730</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705602341730</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +347,8 @@
     <MESSAGE value="added all sample on lesson10" />
     <MESSAGE value="added all sample on lesson11" />
     <MESSAGE value="added all sample on lesson12" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson12" />
+    <MESSAGE value="added all sample on lesson13" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
