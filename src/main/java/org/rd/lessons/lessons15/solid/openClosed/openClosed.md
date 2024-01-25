@@ -1,0 +1,1 @@
+Open-Closed Principle (Açık-Kapalı Prensibi), bir sınıfın değişikliklere kapalı, ancak yeni özellikler eklemek için açık olması gerektiğini ifade eder. Bu prensibe göre, mevcut kodu değiştirmeden yeni özellikler eklemek mümkün olmalıdır.

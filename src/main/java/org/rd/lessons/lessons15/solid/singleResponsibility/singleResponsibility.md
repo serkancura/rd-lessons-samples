@@ -1,0 +1,1 @@
+Single Responsibility Principle (Tek Sorumluluk Prensibi), bir sınıfın veya modülün yalnızca bir sorumluluğu olması gerektiğini vurgular. Bu prensip, her bir sınıfın veya modülün yalnızca bir işlevi yerine getirmesini sağlar. Böylece, kodun daha anlaşılabilir, bakımı daha kolay ve yeniden kullanılabilir olmasını sağlar. SOLID prensipleri’nin ilk maddesidir.
