@@ -1,6 +1,6 @@
 package org.rd.lessons.lesson7;
 
-import org.rd.lessons.lessons9.NesneOzellikleri.Araba;
+import org.rd.lessons.lesson9.NesneOzellikleri.Araba;
 
 public class Loop2 {
 
