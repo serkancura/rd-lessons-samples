@@ -4,54 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson15">
-      <change afterPath="$PROJECT_DIR$/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/JDBC/JDBCExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/JDBC/JDBCStatementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/JDBC/PostgreSQLConnectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/JDBC/PreparedStatementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/JDBI/JDBIExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/User.java" afterDir="false" />
+    <list default="true" id="44cdaba8-db02-40db-a8fb-e579d991316e" name="Changes" comment="added all sample on lesson17">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson18/junitTestNg/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/rd/lessons/lesson18/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/rd/lessons/lesson18/CustomerTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/rd/lessons/lesson18/CustomerTestsWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/rd/lessons/lesson18/SimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/rd/lessons/lesson18/SimpleTestFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/rd/lessons/lesson18/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson7/Loop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson8/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/DesingPattern/Bilgisayar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/DesingPattern/Bilgisayar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/DesingPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/DesingPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/DesingPattern/lombook/Bilgisayar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/DesingPattern/lombook/Bilgisayar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/DesingPattern/lombook/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/DesingPattern/lombook/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/compositionAggregations/aggregation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/compositionAggregations/aggregation/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/compositionAggregations/aggregation/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/compositionAggregations/aggregation/Passenger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/compositionAggregations/composition/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/compositionAggregations/composition/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/compositionAggregations/composition/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/compositionAggregations/composition/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/compositionAggregations/composition/Tyre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/compositionAggregations/composition/Tyre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/dependencyInversion/DatabaseLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/dependencyInversion/DatabaseLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/dependencyInversion/FileLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/dependencyInversion/FileLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/dependencyInversion/LogManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/dependencyInversion/LogManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/dependencyInversion/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/dependencyInversion/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/dependencyInversion/dependencyInversion.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/dependencyInversion/dependencyInversion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/interfaceSegregation/Chef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/interfaceSegregation/Chef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/interfaceSegregation/Eater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/interfaceSegregation/Eater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/interfaceSegregation/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/interfaceSegregation/Engineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/interfaceSegregation/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/interfaceSegregation/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/interfaceSegregation/interfaceSegregation" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/interfaceSegregation/interfaceSegregation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/liskovSubstitution/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/liskovSubstitution/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/liskovSubstitution/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/liskovSubstitution/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/liskovSubstitution/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/liskovSubstitution/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/liskovSubstitution/liskovSubstitution.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/liskovSubstitution/liskovSubstitution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/openClosed/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/openClosed/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/openClosed/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/openClosed/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/openClosed/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/openClosed/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/openClosed/openClosed.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/openClosed/openClosed.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/singleResponsibility/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/singleResponsibility/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/singleResponsibility/CustomerReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/singleResponsibility/CustomerReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons15/solid/singleResponsibility/singleResponsibility.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson15/solid/singleResponsibility/singleResponsibility.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/Araba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson9/NesneOzellikleri/Araba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/ArabaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson9/NesneOzellikleri/ArabaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson9/NesneOzellikleri/HesapMakinesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/NesneAktarmaOrnek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson9/NesneOzellikleri/NesneAktarmaOrnek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/StaticMetotOrnek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson9/NesneOzellikleri/StaticMetotOrnek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lessons9/NesneOzellikleri/StaticOzellikler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson9/NesneOzellikleri/StaticOzellikler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +74,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Application.executor": "Debug",
     "Application.ArabaTest.executor": "Run",
     "Application.Arrays1.executor": "Run",
     "Application.BuyuklukKontrolu.executor": "Run",
@@ -139,6 +104,7 @@
     "Application.Loop5.executor": "Debug",
     "Application.Loops.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.MainApp.executor": "Run",
     "Application.MultiDimension.executor": "Run",
     "Application.NesneAktarmaOrnek.executor": "Run",
     "Application.OgrenciTest.executor": "Run",
@@ -162,20 +128,33 @@
     "Application.org.rd.lessons.lesson14.streams.Main.executor": "Run",
     "Application.org.rd.lessons.lessons15.DesingPattern.Main.executor": "Run",
     "Application.org.rd.lessons.lessons15.DesingPattern.lombook.Main.executor": "Run",
+    "JUnit.CustomerTest.executor": "Run",
+    "JUnit.CustomerTest.testCustomerName.executor": "Run",
+    "JUnit.CustomerTest.tetCustomerEmail.executor": "Run",
+    "JUnit.CustomerTests.executor": "Run",
     "Maven.rd-lessons-samples [clean].executor": "Run",
     "Maven.rd-lessons-samples [compile].executor": "Run",
     "Maven.rd-lessons-samples [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.CustomerTestNG.executor": "Run",
+    "TestNG.CustomerTestNGDataProvider.executor": "Run",
+    "TestNG.CustomerTests.testCustomer.executor": "Run",
+    "TestNG.CustomerTestsFactory.executor": "Run",
+    "TestNG.CustomerTestsWithDataProvider.executor": "Run",
+    "TestNG.CustomerTestsWithDataProvider.testCustomer.executor": "Run",
+    "TestNG.SimpleTestFactory.executor": "Run",
+    "TestNG.testCustomerFactory.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/test/java",
     "last_opened_file_path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples",
     "onboarding.tips.debug.path": "/Users/serkancura/IdeaProjects/rdLessons/rd-lessons-samples/src/main/java/org/rd/lessons/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -183,12 +162,14 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson11/Inheritances" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample" />
     </key>
     <key name="CreateBuilderDialog.RecentsKey">
       <recent name="org.rd.lessons.lessons15.DesingPattern" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.rd.lessons.lesson18" />
       <recent name="org.rd" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -198,79 +179,98 @@
       <recent name="org.rd.lessons.lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JDBIExample">
-    <configuration name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson17.JDBC.JDBCExample" />
+  <component name="RunManager" selected="TestNG.SimpleTestFactory">
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson17.JDBC.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.rd.lessons.lesson18" />
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson18.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBCStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson17.JDBC.JDBCStatementExample" />
+    <configuration name="CustomerTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson17.JDBC.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.rd.lessons.lesson18" />
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson18.CustomerTestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBIExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson17.JDBI.JDBIExample" />
+    <configuration name="CustomerTestsWithDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson17.JDBI.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.rd.lessons.lesson18" />
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson18.CustomerTestsWithDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostgreSQLConnectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson17.JDBC.PostgreSQLConnectionExample" />
+    <configuration name="CustomerTestsWithDataProvider.testCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson17.JDBC.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.rd.lessons.lesson18" />
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson18.CustomerTestsWithDataProvider" />
+      <option name="METHOD_NAME" value="testCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreparedStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson17.JDBC.PreparedStatementExample" />
+    <configuration name="SimpleTestFactory" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rd-lessons-samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rd.lessons.lesson17.JDBC.*" />
+          <option name="PATTERN" value="org.rd.lessons.lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.rd.lessons.lesson18" />
+      <option name="MAIN_CLASS_NAME" value="org.rd.lessons.lesson18.SimpleTestFactory" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBIExample" />
-        <item itemvalue="Application.JDBCStatementExample" />
-        <item itemvalue="Application.PostgreSQLConnectionExample" />
-        <item itemvalue="Application.PreparedStatementExample" />
-        <item itemvalue="Application.JDBCExample" />
+        <item itemvalue="TestNG.SimpleTestFactory" />
+        <item itemvalue="TestNG.CustomerTestsWithDataProvider" />
+        <item itemvalue="TestNG.CustomerTestsWithDataProvider.testCustomer" />
+        <item itemvalue="TestNG.CustomerTestNG" />
+        <item itemvalue="JUnit.CustomerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706209579731</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added all sample on lesson17">
+      <option name="closed" value="true" />
+      <created>1706842285149</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706842285149</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +414,8 @@
     <MESSAGE value="added all sample on lesson13" />
     <MESSAGE value="added all sample on lesson14" />
     <MESSAGE value="added all sample on lesson15" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson15" />
+    <MESSAGE value="added all sample on lesson17" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all sample on lesson17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -470,6 +479,52 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson13/readWriteSample/ReadFile.java</url>
           <line>30</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/controller/CustomerController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/controller/CustomerController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/service/CustomerServiceImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/service/CustomerServiceImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/rd/lessons/lesson18/SimpleTestFactory.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/model/Customer.java</url>
+          <line>25</line>
+          <properties field="firstname" class="org.rd.lessons.lesson17.ORM.model.Customer" />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/model/Customer.java</url>
+          <line>28</line>
+          <properties field="lastname" class="org.rd.lessons.lesson17.ORM.model.Customer" />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rd/lessons/lesson17/ORM/service/CustomerService.java</url>
+          <line>9</line>
+          <properties class="org.rd.lessons.lesson17.ORM.service.CustomerService" method="getCustomerById">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
